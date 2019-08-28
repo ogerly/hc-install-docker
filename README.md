@@ -29,7 +29,7 @@ human connection install über docker-compose, cypress
 
 ![img5](https://user-images.githubusercontent.com/1324583/63831101-28d2cd00-c96e-11e9-8fa5-6e3deaf3207f.png)
 
-![img6](https://user-images.githubusercontent.com/1324583/63831115-31c39e80-c96e-11e9-84d2-7a23ac54105d.png)
+![img7](https://user-images.githubusercontent.com/1324583/63843168-3a27d380-c986-11e9-8777-af65a6ebfd93.png)
 
 ![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/1324583/63842945-df8e7780-c985-11e9-905f-636da53fda18.gif)
 
