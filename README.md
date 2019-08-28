@@ -1,6 +1,14 @@
 ## Das Abenteuer Human Connection kann beginnen ;) 
 
-Auf dem Weg zum Ziel wirst du alle Stationen erreichen    die die Welt des Full-Stack Entwickler ausmacht.  
+Auf dem Weg zum Ziel wirst du alle Stationen erreichen    die die Welt des Full-Stack Entwickler ausmacht. 
+
+Hier gehen wir folgende Punkte durch: 
+
+- HC installieren
+- HC starten + arbeiten (in arbeit)
+- DB füllen und löschen (in arbeit)
+- HC testen (in arbeit)
+
 
 
 # hc-install 
