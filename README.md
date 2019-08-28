@@ -24,7 +24,7 @@ human connection install über docker-compose, cypress
 ![img8](https://user-images.githubusercontent.com/1324583/63831129-38eaac80-c96e-11e9-9167-c26dd5f1d946.png)
 
 
-
-![opensource](https://opensource.org/files/osi_never_add_elements.png)
+ 
+Lizenz: Namensnennung 4.0 International (CC BY 4.0)
 
 
