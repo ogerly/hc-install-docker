@@ -15,7 +15,9 @@ https://github.com/Human-Connection/Human-Connection
        
       $ sudo install docker && sudo install docker-compose
 
-Schritt für Schritt ... 
+
+
+# Schritt für Schritt ... 
 
 
 ## 1.  GIT Repositorie in einen Ordner deiner Wahl herunterladen.
