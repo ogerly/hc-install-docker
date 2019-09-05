@@ -1,6 +1,6 @@
 # Der erste Start!
 
-## Wir benötigen zum Localen betreiben von Human Connection
+## Wir benötigen zum Localen betreiben von @Human-Connection
 
 - ### GIT                         
 
@@ -40,12 +40,13 @@ Schritt für Schritt ...
 
 
 
+
       http://localhost:3000
       http://localhost:4000
       http://localhost:7474
       http://localhost:1080
 
- 
- 
 
+ 
+ Alles Weitere findet ihr bei @Human-Connection
 
