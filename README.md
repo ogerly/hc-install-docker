@@ -1,6 +1,7 @@
 # Der erste Start!
 
-## Wir benötigen zum Localen betreiben von @Human-Connection
+## Wir benötigen zum Localen betreiben von Human Connection  
+https://github.com/Human-Connection/Human-Connection
 
 - ### GIT                         
 
