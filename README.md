@@ -55,3 +55,7 @@ ___
  
 ## Alles Weitere findet ihr bei @Human-Connection
 https://github.com/Human-Connection/Human-Connection
+
+https://docs.human-connection.org/human-connection/
+
+https://human-connection.org/
