@@ -3,15 +3,11 @@
 ## Wir benötigen zum Localen betreiben von Human Connection  
 https://github.com/Human-Connection/Human-Connection
 
-- ### GIT                         
+- ## GIT                         
 
       $ sudo install git
 
-- ### YARN                     
-
-      $ sudo install yarn
-      
-- ### DOCKER               
+- ## DOCKER               
        
       $ sudo install docker && sudo install docker-compose
 
