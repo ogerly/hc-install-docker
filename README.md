@@ -32,7 +32,7 @@ ___
 
 ## 3.   Jetzt machen wir ein Build von Human Connection
         
-        $  docker-compose up –build
+        $  docker-compose up --build
 
 ## 4.  dann setzen wir die Indizes in die neo4j Datenbank
 
