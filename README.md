@@ -1,6 +1,6 @@
 # Der erste Start!
 
-## Wir benötigen zum Localen betreiben von Human Connection  
+## Wir benötigen zum localen betreiben von Human Connection  
 https://github.com/Human-Connection/Human-Connection
 
 - ## GIT                         
@@ -26,7 +26,7 @@ ___
 
         $  cd Human Connection
 
-## 3.   Jetzt machen wir ein Build von Human Connection
+## 3.   jetzt machen wir ein Build von Human Connection
         
         $  docker-compose up --build
 
@@ -40,7 +40,7 @@ ___
 
 
 
-
+## 6. Diese vier seite sollten jetzt abrufbar sein.
 
       http://localhost:3000
       http://localhost:4000
