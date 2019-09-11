@@ -1,7 +1,8 @@
 # Der erste Start!
 
 ## Wir benötigen zum localen betreiben von Human Connection  
-https://github.com/Human-Connection/Human-Connection
+Open Source Code: https://github.com/Human-Connection/Human-Connection
+Dokumentation: https://docs.human-connection.org/human-connection/
 
 - ## GIT                         
 
