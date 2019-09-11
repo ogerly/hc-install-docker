@@ -50,9 +50,9 @@ ___
 
  ___
  
+ # Der zweite Start!
  
- 
- # Das erneute starten von Human Connnection auf deinem Rechner: 
+ ## Das erneute starten von Human Connnection auf deinem Rechner: 
 Das _docker-compose up --build_ ist nur bei einer einrichtung nötig. 
 Für das starten von Human Connection reicht dann folgender Ablauf. 
 
