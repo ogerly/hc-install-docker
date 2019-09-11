@@ -16,7 +16,7 @@ https://github.com/Human-Connection/Human-Connection
 ___
 
 # Schritt für Schritt ... 
-
+VideoTutorial: https://www.youtube.com/watch?v=RxsAfKbObVI
 
 ## 1.  GIT Repositorie in einen Ordner deiner Wahl herunterladen.
 
