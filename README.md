@@ -48,7 +48,33 @@ ___
       http://localhost:1080
 
 
+ ___
  
+ 
+ 
+ # Das erneute starten von Human Connnection auf deinem Rechner: 
+Das _docker-compose up --build_ ist nur bei einer einrichtung nötig. 
+Für das starten von Human Connection reicht dann folgender Ablauf. 
+
+ 1.     $  cd Human Connection
+
+
+ 1.     $  docker-compose up
+ 
+ 
+ 
+ 1.     $  docker-compose exec backend yarn run db:seed
+ 
+ 1.     
+            http://localhost:3000
+            http://localhost:4000
+            http://localhost:7474
+            http://localhost:1080
+
+ 
+  
+
+
 ## Alles Weitere findet ihr bei @Human-Connection
 https://github.com/Human-Connection/Human-Connection
 
