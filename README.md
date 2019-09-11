@@ -92,4 +92,11 @@ https://github.com/Human-Connection/Human-Connection
 
 https://docs.human-connection.org/human-connection/
 
+## Zum Discord Channel von "Human Connection":
+https://human-connection.org/discord/
+Hier könnt ihr fragen stellen und mit den Entwicklern reden. 
+
+
+
+
 https://human-connection.org/
