@@ -87,10 +87,13 @@ Für das starten von Human Connection reicht dann folgender Ablauf.
  
  
 
-## Alles Weitere findet ihr bei @Human-Connection
+## Alles Weitere findet ihr bei GitHub @Human-Connection
 https://github.com/Human-Connection/Human-Connection
 
+
+## Die Dokumentation:
 https://docs.human-connection.org/human-connection/
+
 
 ## Zum Discord Channel von "Human Connection":
 https://human-connection.org/discord/
@@ -98,5 +101,5 @@ Hier könnt ihr fragen stellen und mit den Entwicklern reden.
 
 
 
-
+## Zum Projekt "Human Connection":
 https://human-connection.org/
