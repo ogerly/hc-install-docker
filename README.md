@@ -2,6 +2,7 @@
 
 ## Wir benötigen zum localen betreiben von Human Connection  
 Open Source Code: https://github.com/Human-Connection/Human-Connection
+
 Dokumentation: https://docs.human-connection.org/human-connection/
 
 - ## GIT                         
@@ -55,6 +56,7 @@ VideoTutorial: https://www.youtube.com/watch?v=RxsAfKbObVI
  
  ## Das erneute starten von Human Connnection auf deinem Rechner: 
 Das _docker-compose up --build_ ist nur bei einer einrichtung nötig. 
+
 Für das starten von Human Connection reicht dann folgender Ablauf. 
 
  1.     $  cd Human Connection
