@@ -13,7 +13,8 @@ Dokumentation: https://docs.human-connection.org/human-connection/
        
       $ sudo install docker && sudo install docker-compose
 
-
+### Hinweis für Windows Nutzer ( nutzt endlich Linux! ;)
+!! Bei Rechnern mit Vorinstalliertem Windows: Stelle sicher, dass "Virtualization Technology" und "Execute Disable Bit" im BIOS aktiviert sind.!!
 
 ___
 
@@ -46,7 +47,7 @@ VideoTutorial: https://www.youtube.com/watch?v=RxsAfKbObVI
 
       http://localhost:3000
       http://localhost:4000
-      http://localhost:7474
+      http://localhost:7474  (Übersicht Neo4j Befehle https://github.com/ogerly/hc_neo4j_commands)
       http://localhost:1080
 
 
