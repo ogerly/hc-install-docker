@@ -1,7 +1,10 @@
 # Der erste Start!
+# The first start!
+
 
 ## Wir benötigen zum localen betreiben von Human Connection  
-Open Source Code: https://github.com/Human-Connection/Human-Connection
+## We need the following to run Human Connection  
+Open source code: https://github.com/Human-Connection/Human-Connection
 
 Dokumentation: https://docs.human-connection.org/human-connection/
 
@@ -16,34 +19,43 @@ Dokumentation: https://docs.human-connection.org/human-connection/
 ### Hinweis für Windows Nutzer ( nutzt endlich Linux! ;)
 !! Bei Rechnern mit Vorinstalliertem Windows: Stelle sicher, dass "Virtualization Technology" und "Execute Disable Bit" im BIOS aktiviert sind.!!
 
+### Note for Windows users ( finally uses Linux! ;)
+!! For computers with preinstalled Windows: Make sure that "Virtualization Technology" and "Execute Disable Bit" are activated in the BIOS.
 ___
 
 # Schritt für Schritt ... 
-VideoTutorial: https://www.youtube.com/watch?v=RxsAfKbObVI
+# Step by step ... 
+VideoTutorial in german: https://www.youtube.com/watch?v=RxsAfKbObVI
 
 ## 1.  GIT Repositorie in einen Ordner deiner Wahl herunterladen.
+## Download 1st GIT repository to a folder of your choice
 
         $  git clone https://github.com/Human-Connection/Human-Connection.git
  
 ## 2.  In den neu angelegten Ordner „Human Connection“ wechseln.
+## 2. switch to the newly created folder "Human Connection".
 
         $  cd Human Connection
 
 ## 3.   jetzt machen wir ein Build von Human Connection
+## 3. Now we're making a build of Human Connection
         
         $  docker-compose up --build
 
 ## 4.  dann setzen wir die Indizes in die neo4j Datenbank
+## 4. then we put the indexes into the neo4j database
 
         $  docker-compose exec neo4j db_setup
 
 ## 5.   jetzt füllen wir die Datenbank mit Testdaten
+## 5. now we fill the database with test data
 
         $ docker-compose exec backend yarn run db:seed
 
 
 
 ## 6. Diese vier seite sollten jetzt abrufbar sein.
+## 6. These four pages should be available now.
 
       http://localhost:3000
       http://localhost:4000
@@ -54,11 +66,16 @@ VideoTutorial: https://www.youtube.com/watch?v=RxsAfKbObVI
  ___
  
  # Der zweite Start!
+  # The second start!
  
- ## Das erneute starten von Human Connnection auf deinem Rechner: 
+## Das erneute starten von Human Connnection auf deinem Rechner: 
 Das _docker-compose up --build_ ist nur bei einer einrichtung nötig. 
+## Restarting Human Connection on your computer: 
+The _docker-compose up --build_ is only necessary for one setup. 
+
 
 Für das starten von Human Connection reicht dann folgender Ablauf. 
+For starting Human Connection the following procedure is sufficient. 
 
  1.     $  cd Human Connection
 
@@ -89,10 +106,12 @@ Für das starten von Human Connection reicht dann folgender Ablauf.
  
 
 ## Alles Weitere findet ihr bei GitHub @Human-Connection
+## Everything else you can find at GitHub @Human-Connection
 https://github.com/Human-Connection/Human-Connection
 
 
 ## Die Dokumentation:
+## The documentation:
 https://docs.human-connection.org/human-connection/
 
 
